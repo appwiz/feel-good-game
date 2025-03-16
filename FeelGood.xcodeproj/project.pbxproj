@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A1A1A1A1A1A1A1A1A1A1A1A /* AnimationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A2A2A2A2A2A2A2A2A2A /* AnimationManager.swift */; };
+		1A1A1A1B1A1A1A1B1A1A1A1B /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A2B2A2A2A2B2A2A2A2B /* BackgroundView.swift */; };
+		1A1A1A1C1A1A1A1C1A1A1A1C /* CloudKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A2C2A2A2A2C2A2A2A2C /* CloudKitManager.swift */; };
+		1A1A1A1D1A1A1A1D1A1A1A1D /* CloudSyncView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A2D2A2A2A2D2A2A2A2D /* CloudSyncView.swift */; };
+		1A1A1A1E1A1A1A1E1A1A1A1E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A2E2A2A2A2E2A2A2A2E /* ContentView.swift */; };
+		1A1A1A1F1A1A1A1F1A1A1A1F /* FeelGood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A2F2A2A2A2F2A2A2A2F /* FeelGood.swift */; };
+		1A1A1A201A1A1A201A1A1A20 /* FlowerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A302A2A2A302A2A2A30 /* FlowerView.swift */; };
+		1A1A1A211A1A1A211A1A1A21 /* GameCenterAchievements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A312A2A2A312A2A2A31 /* GameCenterAchievements.swift */; };
+		1A1A1A221A1A1A221A1A1A22 /* GameCenterManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A322A2A2A322A2A2A32 /* GameCenterManager.swift */; };
+		1A1A1A231A1A1A231A1A1A23 /* GameCenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A332A2A2A332A2A2A33 /* GameCenterTests.swift */; };
+		1A1A1A241A1A1A241A1A1A24 /* GameCenterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A342A2A2A342A2A2A34 /* GameCenterView.swift */; };
+		1A1A1A251A1A1A251A1A1A25 /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A352A2A2A352A2A2A35 /* GameState.swift */; };
+		1A1A1A261A1A1A261A1A1A26 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A362A2A2A362A2A2A36 /* GameView.swift */; };
+		1A1A1A271A1A1A271A1A1A27 /* iCloudSyncTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A372A2A2A372A2A2A37 /* iCloudSyncTests.swift */; };
+		1A1A1A281A1A1A281A1A1A28 /* RectangleGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A382A2A2A382A2A2A38 /* RectangleGenerator.swift */; };
+		1A1A1A291A1A1A291A1A1A29 /* RectangleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A392A2A2A392A2A2A39 /* RectangleView.swift */; };
+		1A1A1A2A1A1A1A2A1A1A1A2A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A3A2A2A2A3A2A2A2A3A /* SettingsView.swift */; };
+		1A1A1A2B1A1A1A2B1A1A1A2B /* SoundManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2A2A3B2A2A2A3B2A2A2A3B /* SoundManager.swift */; };
+		1A1A1A2C1A1A1A2C1A1A1A2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A2A2A3C2A2A2A3C2A2A2A3C /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2A2A2A2A2A2A2A2A2A2A2A2A /* AnimationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationManager.swift; sourceTree = "<group>"; };
+		2A2A2A2B2A2A2A2B2A2A2A2B /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		2A2A2A2C2A2A2A2C2A2A2A2C /* CloudKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitManager.swift; sourceTree = "<group>"; };
+		2A2A2A2D2A2A2A2D2A2A2A2D /* CloudSyncView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudSyncView.swift; sourceTree = "<group>"; };
+		2A2A2A2E2A2A2A2E2A2A2A2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2A2A2A2F2A2A2A2F2A2A2A2F /* FeelGood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeelGood.swift; sourceTree = "<group>"; };
+		2A2A2A302A2A2A302A2A2A30 /* FlowerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerView.swift; sourceTree = "<group>"; };
+		2A2A2A312A2A2A312A2A2A31 /* GameCenterAchievements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCenterAchievements.swift; sourceTree = "<group>"; };
+		2A2A2A322A2A2A322A2A2A32 /* GameCenterManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCenterManager.swift; sourceTree = "<group>"; };
+		2A2A2A332A2A2A332A2A2A33 /* GameCenterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCenterTests.swift; sourceTree = "<group>"; };
+		2A2A2A342A2A2A342A2A2A34 /* GameCenterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCenterView.swift; sourceTree = "<group>"; };
+		2A2A2A352A2A2A352A2A2A35 /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
+		2A2A2A362A2A2A362A2A2A36 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		2A2A2A372A2A2A372A2A2A37 /* iCloudSyncTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iCloudSyncTests.swift; sourceTree = "<group>"; };
+		2A2A2A382A2A2A382A2A2A38 /* RectangleGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleGenerator.swift; sourceTree = "<group>"; };
+		2A2A2A392A2A2A392A2A2A39 /* RectangleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleView.swift; sourceTree = "<group>"; };
+		2A2A2A3A2A2A2A3A2A2A2A3A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		2A2A2A3B2A2A2A3B2A2A2A3B /* SoundManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundManager.swift; sourceTree = "<group>"; };
+		2A2A2A3C2A2A2A3C2A2A2A3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2A2A2A3D2A2A2A3D2A2A2A3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A2A2A3E2A2A2A3E2A2A2A3E /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		3A3A3A3A3A3A3A3A3A3A3A3A /* FeelGood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FeelGood.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4A4A4A4A4A4A4A4A4A4A4A4A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5A5A5A5A5A5A5A5A5A5A5A5A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3A3A3A3A3A3A3A3A3A3A3A3A /* FeelGood.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6A6A6A6A6A6A6A6A6A6A6A6A /* FeelGood */ = {
+			isa = PBXGroup;
+			children = (
+				2A2A2A2F2A2A2A2F2A2A2A2F /* FeelGood.swift */,
+				2A2A2A2E2A2A2A2E2A2A2A2E /* ContentView.swift */,
+				2A2A2A362A2A2A362A2A2A36 /* GameView.swift */,
+				2A2A2A3A2A2A2A3A2A2A2A3A /* SettingsView.swift */,
+				2A2A2A352A2A2A352A2A2A35 /* GameState.swift */,
+				2A2A2A382A2A2A382A2A2A38 /* RectangleGenerator.swift */,
+				2A2A2A392A2A2A392A2A2A39 /* RectangleView.swift */,
+				2A2A2A302A2A2A302A2A2A30 /* FlowerView.swift */,
+				2A2A2A2B2A2A2A2B2A2A2A2B /* BackgroundView.swift */,
+				2A2A2A2A2A2A2A2A2A2A2A2A /* AnimationManager.swift */,
+				2A2A2A3B2A2A2A3B2A2A2A3B /* SoundManager.swift */,
+				2A2A2A2C2A2A2A2C2A2A2A2C /* CloudKitManager.swift */,
+				2A2A2A2D2A2A2A2D2A2A2A2D /* CloudSyncView.swift */,
+				2A2A2A312A2A2A312A2A2A31 /* GameCenterAchievements.swift */,
+				2A2A2A322A2A2A322A2A2A32 /* GameCenterManager.swift */,
+				2A2A2A342A2A2A342A2A2A34 /* GameCenterView.swift */,
+				2A2A2A332A2A2A332A2A2A33 /* GameCenterTests.swift */,
+				2A2A2A372A2A2A372A2A2A37 /* iCloudSyncTests.swift */,
+				2A2A2A3C2A2A2A3C2A2A2A3C /* Assets.xcassets */,
+				2A2A2A3D2A2A2A3D2A2A2A3D /* Info.plist */,
+				2A2A2A3E2A2A2A3E2A2A2A3E /* Entitlements.plist */,
+			);
+			path = FeelGood;
+			sourceTree = "<group>";
+		};
+		7A7A7A7A7A7A7A7A7A7A7A7A = {
+			isa = PBXGroup;
+			children = (
+				6A6A6A6A6A6A6A6A6A6A6A6A /* FeelGood */,
+				5A5A5A5A5A5A5A5A5A5A5A5A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8A8A8A8A8A8A8A8A8A8A8A8A /* FeelGood */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A9A9A9A9A9A9A9A9A9A9A9A /* Build configuration list for PBXNativeTarget "FeelGood" */;
+			buildPhases = (
+				AAAAAAAAAAAAAAAAAAAAAAA /* Sources */,
+				4A4A4A4A4A4A4A4A4A4A4A4A /* Frameworks */,
+				BBBBBBBBBBBBBBBBBBBBBBB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FeelGood;
+			productName = FeelGood;
+			productReference = 3A3A3A3A3A3A3A3A3A3A3A3A /* FeelGood.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CCCCCCCCCCCCCCCCCCCCCCC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					8A8A8A8A8A8A8A8A8A8A8A8A = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = DDDDDDDDDDDDDDDDDDDDDDD /* Build configuration list for PBXProject "FeelGood" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7A7A7A7A7A7A7A7A7A7A7A7A;
+			productRefGroup = 5A5A5A5A5A5A5A5A5A5A5A5A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8A8A8A8A8A8A8A8A8A8A8A8A /* FeelGood */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BBBBBBBBBBBBBBBBBBBBBBB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A1A1A2C1A1A1A2C1A1A1A2C /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AAAAAAAAAAAAAAAAAAAAAAA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A1A1A1A1A1A1A1A1A1A1A1A /* AnimationManager.swift in Sources */,
+				1A1A1A1B1A1A1A1B1A1A1A1B /* BackgroundView.swift in Sources */,
+				1A1A1A1C1A1A1A1C1A1A1A1C /* CloudKitManager.swift in Sources */,
+				1A1A1A1D1A1A1A1D1A1A1A1D /* CloudSyncView.swift in Sources */,
+				1A1A1A1E1A1A1A1E1A1A1A1E /* ContentView.swift in Sources */,
+				1A1A1A1F1A1A1A1F1A1A1A1F /* FeelGood.swift in Sources */,
+				1A1A1A201A1A1A201A1A1A20 /* FlowerView.swift in Sources */,
+				1A1A1A211A1A1A211A1A1A21 /* GameCenterAchievements.swift in Sources */,
+				1A1A1A221A1A1A221A1A1A22 /* GameCenterManager.swift in Sources */,
+				1A1A1A231A1A1A231A1A1A23 /* GameCenterTests.swift in Sources */,
+				1A1A1A241A1A1A241A1A1A24 /* GameCenterView.swift in Sources */,
+				1A1A1A251A1A1A251A1A1A25 /* GameState.swift in Sources */,
+				1A1A1A261A1A1A261A1A1A26 /* GameView.swift in Sources */,
+				1A1A1A271A1A1A271A1A1A27 /* iCloudSyncTests.swift in Sources */,
+				1A1A1A281A1A1A281A1A1A28 /* RectangleGenerator.swift in Sources */,
+				1A1A1A291A1A1A291A1A1A29 /* RectangleView.swift in Sources */,
+				1A1A1A2A1A1A1A2A1A1A1A2A /* SettingsView.swift in Sources */,
+				1A1A1A2B1A1A1A2B1A1A1A2B /* SoundManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		EEEEEEEEEEEEEEEEEEEEEEE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FFFFFFFFFFFFFFFFFFFFF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		GGGGGGGGGGGGGGGGGGGGGGG /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FeelGood/Entitlements.plist;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FeelGood/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.FeelGood;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		HHHHHHHHHHHHHHHHHHHHHHH /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FeelGood/Entitlements.plist;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FeelGood/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.FeelGood;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9A9A9A9A9A9A9A9A9A9A9A9A /* Build configuration list for PBXNativeTarget "FeelGood" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				GGGGGGGGGGGGGGGGGGGGGGG /* Debug */,
+				HHHHHHHHHHHHHHHHHHHHHHH /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DDDDDDDDDDDDDDDDDDDDDDD /* Build configuration list for PBXProject "FeelGood" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EEEEEEEEEEEEEEEEEEEEEEE /* Debug */,
+				FFFFFFFFFFFFFFFFFFFFF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CCCCCCCCCCCCCCCCCCCCCCC /* Project object */;
+}
